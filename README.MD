@@ -128,7 +128,7 @@ On this project I have used a fake API. After the lib instalation,you need to cr
 
 Run the following commands inside the project folder:
 
-1.  `git clone https://github.com/wesleymoliveira/rocketseat-gobarber-react.git;`
+1.  `git clone https://github.com/wesleymoliveira/react-rocketshoes.git;`
 
 2.  `yarn`
 
